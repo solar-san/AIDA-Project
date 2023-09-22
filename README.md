@@ -6,3 +6,11 @@
 - Name of the unit: Artificial Intelligence and Data Analytics (AIDA).
 - EM1402, Data Analytics for Business and Society (DABS), Ca' Foscari University of Venice.
 
+## Rule-based AI
+
+- Greedy
+- Intermediate
+
+## Reinforcement learning based AI
+
+- Monte Carlo Tree Search (MCTS).
